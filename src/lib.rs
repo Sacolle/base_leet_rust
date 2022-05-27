@@ -1,8 +1,7 @@
-#[allow(dead_code)]
+#![allow(dead_code,non_snake_case)]
 struct Solution;
 
 
-#[allow(dead_code,non_snake_case)]
 impl Solution{
 
 }
